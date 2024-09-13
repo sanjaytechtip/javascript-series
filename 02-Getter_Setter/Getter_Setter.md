@@ -6,3 +6,10 @@
 
 #Setters
 - A setter allows you to define a method that is called when an object property is assigned a value.
+
+Why Use Getters and Setters?
+
+* Encapsulation: They help control how properties are accessed and modified, keeping object internals safe.
+* Validation: Setters can validate values before updating them, ensuring that the data remains consistent.
+* Computed Properties: Getters can compute values dynamically based on other properties.
+
